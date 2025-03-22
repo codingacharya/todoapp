@@ -4,4 +4,4 @@ cd todoapp
 
 pip install flask
 
-python app.py
+python todo.py
